@@ -1,5 +1,5 @@
 Aidan Jackson - 260924686 & Sandy Lao 260925318
-
+aidan.jackson@mail.mcgill.ca & sandy.lao@mail.mcgill.ca
 #include<iostream>
 using namespace std;
 int main ()
