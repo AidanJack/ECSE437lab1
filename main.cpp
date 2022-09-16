@@ -1,3 +1,5 @@
+Aidan Jackson - 260924686 & Sandy Lao 260925318
+
 #include<iostream>
 using namespace std;
 int main ()
